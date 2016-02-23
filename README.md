@@ -1,2 +1,3 @@
 # image_segment
-image segment using K-mean cluster
+image segmentation using K-mean cluster
+sample data using Pham Hai An image with cluster=5
