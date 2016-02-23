@@ -12,7 +12,7 @@ setwd("C:/todel/")
 }
 
 # load the PNG into an RGB image object
-nt = readPNG("nt.png")
+nt = readPNG("pha.png")
 
 # This nt is 512 x 512 x 3 array
 dim(nt)
